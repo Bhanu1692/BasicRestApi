@@ -1,3 +1,10 @@
+# Click on new 
+![creation](https://github.com/Bhanu1692/BasicRestApi/assets/136798220/28514f97-137e-49ae-98dd-edc0c625dfcd)
+# Select Spring Starter project and change type to mavin and java version to 8
+![Spring starter project](https://github.com/Bhanu1692/BasicRestApi/assets/136798220/6609941e-985a-4dbc-820b-87ec04404a1b)
+# Add the dependencies from the belowed figure which are required
+![Dependencies required](https://github.com/Bhanu1692/BasicRestApi/assets/136798220/d7f82043-0e9a-4d29-86d7-a02a6ebef564)
+
 ![Apiresponce](https://github.com/Bhanu1692/BasicRestApi/assets/136798220/17d4999a-c0f3-4478-8b62-8a69f739118c)
 ![users](https://github.com/Bhanu1692/BasicRestApi/assets/136798220/04c62b71-8342-496d-aa2d-490ef3a8a6c3)
 ![usersrepo](https://github.com/Bhanu1692/BasicRestApi/assets/136798220/89005679-5471-4bba-9265-327f9d869855)
